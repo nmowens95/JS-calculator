@@ -1,3 +1,3 @@
 # JS-calculator
 
-Push test
+Practice Project
